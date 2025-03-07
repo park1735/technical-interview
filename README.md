@@ -24,8 +24,9 @@ Welcome to the technical interview for our project. The following ten open-ended
        balancers and S3 buckets and until recently PostgreSQL.
    
    d.  After leaving the USCIS contract I landed at CBP supporting Anayses of Alternatives (AoA) for facial recognition (FR) and license plate recognition (LPR) efforts.  Though I wasn't a developer or engineer on 
-       these efforts those skills served me well in working with the development teams.  Currently, we support pilot/proof of concept efforts at various Ports of Entry across the United States and conduct ground- 
-       truthing efforts to measure the success and accuracy of these FR and LPR efforts.  We also monitor and report on the performance of existing deployed equipment.
+       these efforts those skills served me well in working with the development teams.  Currently, we support FR and LPR pilot/proof of concept efforts at various Ports of Entry across the United States and 
+       conduct ground-truthing efforts to measure the success and accuracy of these FR and LPR efforts.  We also monitor and report on the performance of currently deployed LPR equipment.
+   
    e.  This led to the creation of many queries in SQL Server for the pilot/proof of concept efforts along with queries in the Oracle production databases for monitoring and reporting on currently deployed 
        solutions and most recently PostgreSQL as CBP is migrating its databases from Oracle to PostgreSQL.
 
