@@ -17,9 +17,12 @@ Welcome to the technical interview for our project. The following ten open-ended
    Describe your proficiency with the technologies used and/or referenced within this repository and these exercises.
    
    a.  I'm editing the current one.  I hope that you don't mind that.
+   
    b.  My proficiency with technologies used and/or referenced within this repository and these exercises varries.
+   
    c.  To begin with, the last time I used GitHub and Visual Studio was approximately 7 1/2 years ago when I worked on a contract with USCIS.  This was the last time that I had any experience using AWS, EC2, load 
        balancers and S3 buckets and until recently PostgreSQL.
+   
    d.  After leaving the USCIS contract I landed at CBP supporting Anayses of Alternatives (AoA) for facial recognition (FR) and license plate recognition (LPR) efforts.  Though I wasn't a developer or engineer on 
        these efforts those skills served me well in working with the development teams.  Currently, we support pilot/proof of concept efforts at various Ports of Entry across the United States and conduct ground- 
        truthing efforts to measure the success and accuracy of these FR and LPR efforts.  We also monitor and report on the performance of existing deployed equipment.
