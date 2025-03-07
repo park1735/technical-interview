@@ -45,6 +45,8 @@ Welcome to the technical interview for our project. The following ten open-ended
     b.  WeatherApp.Shared .dll was referenced under Projects branch of Dependencies
     c.  Added WeatherApp.Shared to the solution and code would run
     d.  However, browser tab that opened in default web browser was non-functional
+7.  After getting this solution to run (at a bare minimum), I forked the changes back to my GitHub repository
+8.  
 
 
 3. **Make Your Changes:** 
