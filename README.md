@@ -23,9 +23,10 @@ Welcome to the technical interview for our project. The following ten open-ended
    c.  To begin with, the last time I used GitHub and Visual Studio was approximately 7 1/2 years ago when I worked on a contract with USCIS.  This was the last time that I had any experience using AWS, EC2, load 
        balancers and S3 buckets and until recently PostgreSQL.
    
-   d.  After leaving the USCIS contract I landed at CBP supporting Anayses of Alternatives (AoA) for facial recognition (FR) and license plate recognition (LPR) efforts.  Though I wasn't a developer or engineer on 
-       these efforts those skills served me well in working with the development teams.  Currently, we support FR and LPR pilot/proof of concept efforts at various Ports of Entry across the United States and 
-       conduct ground-truthing efforts to measure the success and accuracy of these FR and LPR efforts.  We also monitor and report on the performance of currently deployed LPR equipment.
+   d.  After leaving the USCIS contract I landed at CBP supporting the Passenger Systems Program Directorate Land Border Integration division as part of a team conducting Anayses of Alternatives (AoA) for facial 
+       recognition (FR) and license plate recognition (LPR) efforts.  Though I wasn't a developer or engineer on these efforts those skills served me well in working with the development teams.  Currently, we 
+       support FR and LPR pilot/proof of concept efforts at various Ports of Entry across the United States and conduct ground-truthing efforts to measure the success and accuracy of these FR and LPR efforts.  We 
+       also monitor and report on the performance of currently deployed LPR equipment.
    
    e.  This led to the creation of many queries in SQL Server for the pilot/proof of concept efforts along with queries in the Oracle production databases for monitoring and reporting on currently deployed 
        solutions and most recently PostgreSQL as CBP is migrating its databases from Oracle to PostgreSQL.
