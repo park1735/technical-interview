@@ -1,6 +1,9 @@
 # Introduction
- 
-Steps taken thus far:
+
+Mimir Candidate,
+
+Welcome to the technical interview for our project. The following ten open-ended questions are designed to evaluate your technical proficiency, critical thinking, reasoning, analytical abilities, and communication skills. We expect you to provide thorough and thoughtful responses that reflect your unique approach and expertise.
+
 
 **Instructions:**
 
@@ -25,6 +28,8 @@ Steps taken thus far:
 
 # Hands-On Coding Exercises: GitHub Project Upgrade
 
+# Steps taken thus far: #
+
 1.  Created GitHub account.
 2.  Downloaded GitHub desktop.
 3.  Cloned repository.
@@ -35,13 +40,7 @@ Steps taken thus far:
     a.  Experienced errors indicating missing WeatherApp.Shared.csproj file
     b.  WeatherApp.Shared .dll was referenced under Projects branch of Dependencies
     c.  Added WeatherApp.Shared to the solution and code would run
-    d.  However, browser tab that opened in default web browser was nonfunctional
-
-Mimir Candidate,
-
-Welcome to the technical interview for our project. The following ten open-ended questions are designed to evaluate your technical proficiency, critical thinking, reasoning, analytical abilities, and communication skills. We expect you to provide thorough and thoughtful responses that reflect your unique approach and expertise.
-
-
+    d.  However, browser tab that opened in default web browser was non-functional
 
 
 3. **Make Your Changes:** 
