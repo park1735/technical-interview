@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\technical-interview\\WeatherApp\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\confirmationalert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\confirmationalert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 122,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-07T18:59:23.912Z",
+              "EditorCaption": " - Icon [48x48, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-07T18:59:15.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-07T18:37:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmationAlert.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
+              "RelativeDocumentMoniker": "Pages\\ConfirmationAlert.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
+              "RelativeToolTip": "Pages\\ConfirmationAlert.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:36:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlertMessage.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\AlertMessage.razor",
+              "RelativeDocumentMoniker": "Pages\\AlertMessage.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\AlertMessage.razor",
+              "RelativeToolTip": "Pages\\AlertMessage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:36:50.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

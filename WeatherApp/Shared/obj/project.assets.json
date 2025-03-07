@@ -962,23 +962,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel Ungureanu\\.nuget\\packages\\": {},
+    "C:\\Users\\Paul\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Data\\WeatherApp\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
+      "projectUniqueName": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
       "projectName": "WeatherApp.Shared",
-      "projectPath": "I:\\Data\\WeatherApp\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
-      "packagesPath": "C:\\Users\\Gabriel Ungureanu\\.nuget\\packages\\",
-      "outputPath": "I:\\Data\\WeatherApp\\WeatherApp\\Shared\\obj\\",
+      "projectPath": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
+      "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel Ungureanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1000,7 +1000,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0": {
@@ -1033,15 +1039,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           }
         ],
         "frameworkReferences": {
@@ -1049,7 +1055,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

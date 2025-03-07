@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEF1534-9512-51F9-80E7-03CDED64E35B}|WeatherApp.Shared.csproj|d:\\git\\technical-interview\\weatherapp\\shared\\weatherapp.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1BEF1534-9512-51F9-80E7-03CDED64E35B}|WeatherApp.Shared.csproj|solutionrelative:weatherapp.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherApp.Shared",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
+              "RelativeDocumentMoniker": "WeatherApp.Shared.csproj",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
+              "RelativeToolTip": "WeatherApp.Shared.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T19:50:07.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

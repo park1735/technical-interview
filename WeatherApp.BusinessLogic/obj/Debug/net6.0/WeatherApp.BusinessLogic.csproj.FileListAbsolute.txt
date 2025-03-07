@@ -43,3 +43,6 @@ I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.Business
 I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\refint\WeatherApp.BusinessLogic.dll
 I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.pdb
 I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\ref\WeatherApp.BusinessLogic.dll
+D:\Git\technical-interview\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.dll
+D:\Git\technical-interview\WeatherApp.BusinessLogic\obj\Debug\net6.0\refint\WeatherApp.BusinessLogic.dll
+D:\Git\technical-interview\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.pdb

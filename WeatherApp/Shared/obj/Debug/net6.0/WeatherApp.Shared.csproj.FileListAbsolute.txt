@@ -34,3 +34,16 @@ I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
 I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\refint\WeatherApp.Shared.dll
 I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb
 I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll
+D:\Git\technical-interview\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.deps.json
+D:\Git\technical-interview\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.dll
+D:\Git\technical-interview\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.pdb
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.AssemblyReference.cache
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfoInputs.cache
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfo.cs
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.sourcelink.json
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\refint\WeatherApp.Shared.dll
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb
+D:\Git\technical-interview\WeatherApp\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll

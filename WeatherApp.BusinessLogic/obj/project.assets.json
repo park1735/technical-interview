@@ -236,19 +236,6 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Microsoft.JSInterop/6.0.36": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Microsoft.JSInterop.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.JSInterop.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Microsoft.NETCore.Platforms/2.0.0": {
         "type": "package",
         "compile": {
@@ -395,21 +382,6 @@
             "assetType": "runtime",
             "rid": "win"
           }
-        }
-      },
-      "WeatherApp.Shared/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "AWSSDK.DynamoDBv2": "3.7.404.10",
-          "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "8.0.0",
-          "Microsoft.JSInterop": "6.0.36"
-        },
-        "compile": {
-          "bin/placeholder/WeatherApp.Shared.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WeatherApp.Shared.dll": {}
         }
       }
     }
@@ -779,21 +751,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.JSInterop/6.0.36": {
-      "sha512": "e8jDwaCpfpSCR8f+UbbfU6ZrJE37svywOhevNnAuzQG9IdDJai/AgeAW19t2LMumFXVrdqhX/BIQNzSfyHpsXg==",
-      "type": "package",
-      "path": "microsoft.jsinterop/6.0.36",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net6.0/Microsoft.JSInterop.dll",
-        "lib/net6.0/Microsoft.JSInterop.xml",
-        "microsoft.jsinterop.6.0.36.nupkg.sha512",
-        "microsoft.jsinterop.nuspec"
-      ]
-    },
     "Microsoft.NETCore.Platforms/2.0.0": {
       "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
       "type": "package",
@@ -1058,40 +1015,35 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "WeatherApp.Shared/1.0.0": {
-      "type": "project",
-      "path": "../WeatherApp/Shared/WeatherApp.Shared.csproj",
-      "msbuildProject": "../WeatherApp/Shared/WeatherApp.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AWSSDK.DynamoDBv2 >= 3.7.404.10",
       "AWSSDK.S3 >= 3.7.411",
+      "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
       "Microsoft.Extensions.Logging.Log4Net.AspNetCore >= 8.0.0",
-      "Newtonsoft.Json >= 13.0.3",
-      "WeatherApp.Shared >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel Ungureanu\\.nuget\\packages\\": {},
+    "C:\\Users\\Paul\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Data\\WeatherApp\\WeatherApp.BusinessLogic\\WeatherApp.BusinessLogic.csproj",
+      "projectUniqueName": "D:\\Git\\technical-interview\\WeatherApp.BusinessLogic\\WeatherApp.BusinessLogic.csproj",
       "projectName": "WeatherApp.BusinessLogic",
-      "projectPath": "I:\\Data\\WeatherApp\\WeatherApp.BusinessLogic\\WeatherApp.BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\Gabriel Ungureanu\\.nuget\\packages\\",
-      "outputPath": "I:\\Data\\WeatherApp\\WeatherApp.BusinessLogic\\obj\\",
+      "projectPath": "D:\\Git\\technical-interview\\WeatherApp.BusinessLogic\\WeatherApp.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\technical-interview\\WeatherApp.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel Ungureanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1107,8 +1059,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "I:\\Data\\WeatherApp\\WeatherApp\\Shared\\WeatherApp.Shared.csproj": {
-              "projectPath": "I:\\Data\\WeatherApp\\WeatherApp\\Shared\\WeatherApp.Shared.csproj"
+            "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj": {
+              "projectPath": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj"
             }
           }
         }
@@ -1117,7 +1069,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0": {
@@ -1154,15 +1112,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.36, 6.0.36]"
           }
         ],
         "frameworkReferences": {
@@ -1170,8 +1128,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Git\\technical-interview\\WeatherApp\\Shared\\WeatherApp.Shared.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
