@@ -3,89 +3,343 @@
   "WorkspaceRootPath": "D:\\Git\\technical-interview\\WeatherApp\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\weatherCache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\technical-interview\\WeatherApp\\Server\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\confirmationalert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\confirmationalert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:pages\\alertmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|d:\\git\\technical-interview\\weatherapp\\client\\weatherapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94BA32A3-4A4A-4093-BA15-3D8E017B7941}|WeatherApp.Client.csproj|solutionrelative:weatherapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 122,
+      "VerticalTabListWidth": 190,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "favicon.ico - Icon [48x48, 32 bit, BMP]",
-              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
-              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\favicon.ico - Icon [48x48, 32 bit, BMP]",
-              "RelativeToolTip": "wwwroot\\favicon.ico - Icon [48x48, 32 bit, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-03-07T18:59:23.912Z",
-              "EditorCaption": " - Icon [48x48, 32 bit, BMP]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
-              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "DocumentIndex": 7,
+              "Title": "WeatherApp.Server.csproj.nuget.g.targets",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.targets",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-07T18:59:15.979Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T14:18:52.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "RelativeToolTip": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-07T18:37:33.476Z",
+              "DocumentIndex": 6,
+              "Title": "WeatherApp.Server.csproj.nuget.g.props",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.props",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T14:18:26.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfirmationAlert.razor",
-              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
-              "RelativeDocumentMoniker": "Pages\\ConfirmationAlert.razor",
-              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
-              "RelativeToolTip": "Pages\\ConfirmationAlert.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T18:36:55.223Z",
+              "DocumentIndex": 5,
+              "Title": "WeatherApp.Server.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\WeatherApp.Server.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\Server\\obj\\WeatherApp.Server.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:17:29.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\project.assets.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\project.assets.json",
+              "RelativeToolTip": "..\\Server\\obj\\project.assets.json",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAvwFgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:17:26.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSharing.Server.csproj.nuget.g.targets",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.g.targets",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T14:17:20.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSharing.Server.csproj.nuget.g.props",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.g.props",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T14:17:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSharing.Server.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\Server\\obj\\DataSharing.Server.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:16:13.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSharing.Server.csproj.EntityFrameworkCore.targets",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "..\\Server\\obj\\DataSharing.Server.csproj.EntityFrameworkCore.targets",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\obj\\DataSharing.Server.csproj.EntityFrameworkCore.targets",
+              "RelativeToolTip": "..\\Server\\obj\\DataSharing.Server.csproj.EntityFrameworkCore.targets",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T14:16:05.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Server\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:15:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\config.json",
+              "RelativeDocumentMoniker": "..\\Server\\Configuration\\config.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\config.json",
+              "RelativeToolTip": "..\\Server\\Configuration\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:15:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\log4net.config",
+              "RelativeDocumentMoniker": "..\\Server\\Configuration\\log4net.config",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\log4net.config",
+              "RelativeToolTip": "..\\Server\\Configuration\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-08T14:15:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "weatherCache.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\weatherCache.json",
+              "RelativeDocumentMoniker": "..\\Server\\Configuration\\weatherCache.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Configuration\\weatherCache.json",
+              "RelativeToolTip": "..\\Server\\Configuration\\weatherCache.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:15:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Program.cs",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\Program.cs",
+              "RelativeToolTip": "..\\Server\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:12:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Server\\appsettings.Development.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Server\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:12:27.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\manifest.json",
+              "RelativeDocumentMoniker": "wwwroot\\manifest.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\wwwroot\\manifest.json",
+              "RelativeToolTip": "wwwroot\\manifest.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:11:36.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T14:11:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T14:11:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:10:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmationAlert.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
+              "RelativeDocumentMoniker": "Pages\\ConfirmationAlert.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\ConfirmationAlert.razor",
+              "RelativeToolTip": "Pages\\ConfirmationAlert.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T14:10:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AlertMessage.razor",
               "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\AlertMessage.razor",
               "RelativeDocumentMoniker": "Pages\\AlertMessage.razor",
@@ -93,7 +347,46 @@
               "RelativeToolTip": "Pages\\AlertMessage.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T18:36:50.63Z",
+              "WhenOpened": "2025-03-08T14:10:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:09:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAADkBAAAAAAAAAAAAADQBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T13:59:50.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherApp.Client",
+              "DocumentMoniker": "D:\\Git\\technical-interview\\WeatherApp\\Client\\WeatherApp.Client.csproj",
+              "RelativeDocumentMoniker": "WeatherApp.Client.csproj",
+              "ToolTip": "D:\\Git\\technical-interview\\WeatherApp\\Client\\WeatherApp.Client.csproj",
+              "RelativeToolTip": "WeatherApp.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T13:56:22.91Z",
               "EditorCaption": ""
             }
           ]
